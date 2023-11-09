@@ -30,7 +30,7 @@ public class Exercise_02 {
         double dd = 10.5;
         int ii = (int) dd;
             System.out.println(ii);
-
+            // adding this info
             // narrowing direction information is lost
 
     }
