@@ -24,6 +24,7 @@ public class Exercise_01 {
             System.out.println("variable d = " +d);
             System.out.println("variable f = " +f);
             System.out.println("variable c = " +'a');
+            System.out.println("variable c= " + 'a');
 
 
     }
